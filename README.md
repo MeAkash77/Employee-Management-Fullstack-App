@@ -1,53 +1,12 @@
 # Employee Management Full-Stack Application
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Live Deployment](#live-deployment)
-- [Key Technologies](#key-technologies)
-- [User Interface](#user-interface)
-- [File Structure](#file-structure)
-- [API Endpoints](#api-endpoints)
-- [Backend Setup](#backend-setup)
-  - [Prerequisites](#1-prerequisites)
-  - [Clone the Repository](#2-clone-the-repository)
-  - [Install Dependencies](#3-install-dependencies)
-  - [Configure the Application](#4-configure-the-application)
-  - [Start the Backend Server](#5-start-the-backend-server)
-  - [Access the API Endpoints](#6-access-the-api-endpoints)
-  - [API Documentation](#7-api-documentation)
-    - [Overview](#overview-1)
-    - [How to Access the API Documentation](#how-to-access-the-api-documentation)
-    - [Benefits of Using Swagger UI](#benefits-of-using-swagger-ui)
-  - [Backend JUnit Testing](#8-backend-junit-testing)
-- [Frontend Setup](#frontend-setup)
-  - [Clone the Repository](#1-clone-the-repository)
-  - [Install Dependencies](#2-install-dependencies)
-  - [Set Up Environment Variables](#3-set-up-environment-variables)
-  - [Start the Development Server](#4-start-the-development-server)
-  - [Build for Production](#5-build-for-production)
-  - [Test the Application (Optional)](#6-test-the-application-optional)
-- [Detailed Component Instructions](#detailed-component-instructions)
-- [Containerization](#containerization)
-- [Kubernetes](#kubernetes)
-- [LoadBalancer Service](#loadbalancer-service)
-- [Jenkins](#jenkins)
-- [OpenAPI Specification](#openapi-specification)
-  - [Using the `openapi.yaml` File](#using-the-openapiyaml-file)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## Overview
 
 The Employee Management System is a dynamic full-stack application that seamlessly combines cutting-edge and traditional technologies. By integrating a modern **React** frontend with a classic **Spring Boot** backend, this project demonstrates how new and established technologies can harmoniously work together to create a robust and efficient application for managing employee and department data!
 
 ## Live Deployment
 
-The Employee Management System full-stack app is deployed with Vercel and is live at [https://employee-manage-app.vercel.app](https://employee-manage-app.vercel.app) for you to explore and interact with the application.
-
-The backend is also deployed with Render and is available at [https://employee-management-app.onrender.com](https://employee-management-app-gdm5.onrender.com/). You can access the API endpoints directly from the browser at the root (`/`) endpoint as we've set up the Swagger UI documentation for easy testing.
+The Employee Management System full-stack app is deployed with Vercel and is live at [https://employee-management-fullstack-app-dun.vercel.app/](https://employee-management-fullstack-app-dun.vercel.app/) for you to explore and interact with the application.
 
 > **Note:** The backend API may spin down due to inactivity, so you may need to wait for up to 2 minutes for the API to start up again. Feel free to test the API endpoints and explore the application. Or, you can run the backend locally and connect it to the frontend for a more seamless experience.
 
@@ -84,8 +43,6 @@ The backend is also deployed with Render and is available at [https://employee-m
 ## User Interface
 
 The frontend of the Employee Management System provides a user-friendly interface for managing employees and departments. It includes features for viewing, adding, editing, and deleting employees and departments. The app also includes visualizations for employee metrics such as growth over time and distribution by age range.
-
-The frontend is also live at [https://employee-management-fullstack-app.vercel.app](https://employee-management-fullstack-app.vercel.app) for you to explore and interact with the application. Note that the backend is not hosted, so the API calls will not work and the data will not be present.
 
 **Landing Page:**
 
@@ -664,26 +621,5 @@ This guide enables you to view, test, and utilize the API. Feel free to explore 
 
   ```bash
   npm start --verbose
-  ```
-
-## Contributing
-
-If you'd like to contribute to the project, please fork the repository and submit a pull request with your changes. Ensure that you follow the project's coding standards and include relevant tests for new features.
-
-## License
-
-This project is licensed under the **MIT License.** See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or issues, please contact [hoangson091104@gmail.com](mailto:hoangson091104@gmail.com).
-
----
-
-Thank you for checking out the **Employee Management Full-Stack Application!** Feel free to use this project for your own learning or development purposes.
-
-Created with ❤️ by [Son Nguyen](https://github.com/hoangsonww) in 2024.
-
----
 
 **[⬆ Back to Top](#employee-management-full-stack-application)**

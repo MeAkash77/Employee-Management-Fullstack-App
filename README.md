@@ -104,12 +104,6 @@ The frontend of the Employee Management System provides a user-friendly interfac
   <img src="img/register.png" alt="Register Page" style="border-radius: 10px" width="100%"/>
 </p>
 
-**404 Page:**
-
-<p align="center" style="cursor: pointer">
-  <img src="img/404.png" alt="404 Page" style="border-radius: 10px" width="100%"/>
-</p>
-
 **Footer:**
 
 <p align="center" style="cursor: pointer">

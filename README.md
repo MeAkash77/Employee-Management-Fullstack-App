@@ -77,7 +77,7 @@ The frontend of the Employee Management System provides a user-friendly interfac
 **Profile Page:**
 
 <p align="center" style="cursor: pointer">
-  <img src="<img width="949" alt="Image" src="https://github.com/user-attachments/assets/dc3cb9af-ac1c-4a48-b57c-b51d6bc23db3" />" alt="Profile Page" style="border-radius: 10px" width="100%"/>
+  <img src="<img width="949" alt="Image" src="https://github.com/user-attachments/assets/dc3cb9af-ac1c-4a48-b57c-b51d6bc23db3"/>
 </p>
 
 **Login Page:**

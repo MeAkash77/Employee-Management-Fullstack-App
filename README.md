@@ -68,18 +68,6 @@ The frontend of the Employee Management System provides a user-friendly interfac
   <img src="img/departments-page.png" alt="Department List Page" style="border-radius: 10px" width="100%"/>
 </p>
 
-**Add Employee Form:**
-
-<p align="center" style="cursor: pointer">
-  <img src="img/add-employee.png" alt="Add Employee Form" style="border-radius: 10px" width="100%"/>
-</p>
-
-**Edit Employee Form:**
-
-<p align="center" style="cursor: pointer">
-  <img src="img/edit-employee.png" alt="Edit Employee Form" style="border-radius: 10px" width="100%"/>
-</p>
-
 **Edit Department Form:**
 
 <p align="center" style="cursor: pointer">

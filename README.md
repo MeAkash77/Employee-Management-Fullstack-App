@@ -70,9 +70,7 @@ The frontend of the Employee Management System provides a user-friendly interfac
 
 **Edit Department Form:**
 
-<p align="center" style="cursor: pointer">
-  <img src="img/edit-department.png" alt="Edit Department Form" style="border-radius: 10px" width="100%"/>
-</p>
+<img width="959" alt="Image" src="https://github.com/user-attachments/assets/98d76024-0c31-4a43-84d5-eefd3eef7722" />
 
 **Profile Page:**
 

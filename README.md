@@ -253,7 +253,7 @@ Ensure that you have Java 11 installed on your local machine. If not, follow the
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/hoangsonww/Employee-Management-Fullstack-App.git
+git clone https://github.com/MeAkash77/Employee-Management-Fullstack-App.git
 cd Employee-Management-Fullstack-App  # Fix the paths if necessary
 cd backend
 ```

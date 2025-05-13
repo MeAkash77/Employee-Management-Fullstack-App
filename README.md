@@ -400,7 +400,7 @@ Feel free to add more tests as needed to ensure the reliability and correctness 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/hoangsonww/Employee-Management-Fullstack-App.git
+git clone https://github.com/MeAkash77/Employee-Management-Fullstack-App.git
 cd frontend
 ```
 

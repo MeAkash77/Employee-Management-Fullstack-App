@@ -86,9 +86,7 @@ The frontend of the Employee Management System provides a user-friendly interfac
 
 **Register Page:**
 
-<p align="center" style="cursor: pointer">
-  <img src="img/register.png" alt="Register Page" style="border-radius: 10px" width="100%"/>
-</p>
+<img width="949" alt="Image" src="https://github.com/user-attachments/assets/17109729-3937-4009-b4da-a6b43842d689" />
 
 **Footer:**
 

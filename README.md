@@ -76,7 +76,7 @@ The frontend of the Employee Management System provides a user-friendly interfac
 
 **Profile Page:**
 
-  <img src="<img width="949" alt="Image" src="https://github.com/user-attachments/assets/dc3cb9af-ac1c-4a48-b57c-b51d6bc23db3"/>
+ <img width="949" alt="Image" src="https://github.com/user-attachments/assets/dc3cb9af-ac1c-4a48-b57c-b51d6bc23db3"/>
 
 **Login Page:**
 
@@ -92,7 +92,7 @@ The frontend of the Employee Management System provides a user-friendly interfac
 
 **Footer:**
 
-  <img src="<img width="949" alt="Image" src="https://github.com/user-attachments/assets/dc3cb9af-ac1c-4a48-b57c-b51d6bc23db3" />
+ <img width="949" alt="Image" src="https://github.com/user-attachments/assets/dc3cb9af-ac1c-4a48-b57c-b51d6bc23db3" />
 </p>
 
 **Responsive Design Example - Dashboard Page:**
